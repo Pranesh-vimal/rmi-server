@@ -1,0 +1,15 @@
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+	<book>
+		<name>Java</name>
+		<author>james</author>
+		<author>patrick</author>
+		<price>400</price>
+	</book>
+	<book>
+		<name>xml</name>
+		<author>Robert</author>
+		<price>300</price>
+	</book>
+</books>
+<!-- 1. Well Formadness standard - 2. validation standard -->
